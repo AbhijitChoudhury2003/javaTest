@@ -14,6 +14,8 @@ Implementing Poll SCM
 
 Trying to implement github hook trigger
 
+////Changes i made to check poll scm triggers in jenkins
+
 
 
 
